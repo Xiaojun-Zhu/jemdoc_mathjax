@@ -1,3 +1,11 @@
+Notes from xzhu
+====
+A few fixes:
+- changed jemdoc to output utf-8 encoded output file, to support Chinese characters
+
+
+
+
 jemdoc+MathJax
 ==============
 *jemdoc* is a light text-based markup language designed for creating websites.  See http://jemdoc.jaboc.net/ for more information and the detailed usage of jemdoc.
