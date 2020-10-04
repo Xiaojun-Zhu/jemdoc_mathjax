@@ -1,8 +1,9 @@
 Notes from xzhu
 ====
-A few fixes:
-- changed jemdoc to output utf-8 encoded output file, to support Chinese characters
-
+- Add support for Chinese character: Just set the output file to be UTF-8 encoded.
+	- changed jemdoc to output utf-8 encoded output file, only one line of code
+- jemdoc+MathJax supports Python 3.
+- Just use jemdoc as  http://jemdoc.jaboc.net/
 
 
 
