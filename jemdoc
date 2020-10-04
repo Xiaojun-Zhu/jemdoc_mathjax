@@ -1628,7 +1628,7 @@ def main():
       thisout = outname
 
     infile = io.open(inname, 'rb')
-    outfile = io.open(thisout, 'w')
+    outfile = io.open(thisout, encoding='utf-8', mode='w')
 
 #    print(infile.read())
     f = controlstruct(infile, outfile, conf, inname)
